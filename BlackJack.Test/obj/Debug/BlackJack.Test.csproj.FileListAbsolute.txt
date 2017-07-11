@@ -1,0 +1,14 @@
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\BlackJack.Test.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\BlackJack.Test.pdb
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\BlackJack.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\BlackJack.pdb
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\VS207\BlackJack\BlackJack.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\VS207\BlackJack\BlackJack.Test\obj\Debug\BlackJack.Test.csprojResolveAssemblyReference.cache
+C:\Projects\VS207\BlackJack\BlackJack.Test\obj\Debug\BlackJack.Test.dll
+C:\Projects\VS207\BlackJack\BlackJack.Test\obj\Debug\BlackJack.Test.pdb

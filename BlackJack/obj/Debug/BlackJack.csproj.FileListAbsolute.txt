@@ -1,0 +1,7 @@
+C:\Projects\VS207\BlackJack\BlackJack\bin\Debug\BlackJack.dll
+C:\Projects\VS207\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Projects\VS207\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Projects\VS207\BlackJack\BlackJack\obj\Debug\BlackJack.dll
+C:\Projects\VS207\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Projects\VS207\BlackJack\BlackJack\bin\Debug\nunit.framework.dll
+C:\Projects\VS207\BlackJack\BlackJack\bin\Debug\nunit.framework.xml
